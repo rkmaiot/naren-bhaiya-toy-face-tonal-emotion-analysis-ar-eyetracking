@@ -18,8 +18,7 @@ import Vokaturi
 import sys
 import scipy.io.wavfile
 
-sys.path.append(
-    "C:\\Users\\webdeveloper\\Downloads\\OpenVokaturi-3-4\\OpenVokaturi-3-4\\api")
+sys.path.append("C:\\Users\\webdeveloper\\Downloads\\OpenVokaturi-3-4\\OpenVokaturi-3-4\\api")
 
 print("Loading library...")
 Vokaturi.load(
